@@ -1,0 +1,22 @@
+{
+  "version": "1.2",
+  "dbname": "Yeast",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "Lesson_4_Yeast_Proteome.fasta",
+  "number-of-letters": 2936363,
+  "number-of-sequences": 6049,
+  "last-updated": "2023-11-01T10:14:00",
+  "number-of-volumes": 1,
+  "bytes-total": 3952239,
+  "bytes-to-cache": 2990917,
+  "files": [
+    "Yeast.pdb",
+    "Yeast.phr",
+    "Yeast.pin",
+    "Yeast.pot",
+    "Yeast.psq",
+    "Yeast.ptf",
+    "Yeast.pto"
+  ]
+}
